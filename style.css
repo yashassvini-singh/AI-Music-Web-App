@@ -1,0 +1,38 @@
+canvas{
+    box-shadow: 5px 5px 5px white;
+    background-color: white;
+    border: 5px solid white;
+    border-radius: 20px;
+}
+
+body{
+    background-size:cover;
+}
+#header {
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWmOxTzB39jWpsOQ9N2vgm44FsF3bORWwuMw&s");
+    background-size:cover;
+    padding:10px;
+    margin:0;
+    font-size:20px;
+    color:black ;
+
+}
+
+.copy_right_footer {
+    text-align:center;
+    width:100%;
+    line-height: 4;
+    bottom: 0;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWmOxTzB39jWpsOQ9N2vgm44FsF3bORWwuMw&s");
+    color: rgb(17, 17, 17);
+    position: fixed;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+canvas{
+    box-shadow: 5px 5px 5px white;
+    background-color: white;
+    border: 5px solid white;
+    border-radius: 20px;
+}
