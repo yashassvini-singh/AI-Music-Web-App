@@ -5,6 +5,7 @@ rightWrist_y = 0;
 leftWrist_x = 0;
 leftWrist_y = 0;
 scoreleftWrist = 0;
+scorerightWrist = 0;
 song_name = "";
 
 
